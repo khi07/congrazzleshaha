@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    margin: 0px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+    text-transform:uppercase;
+    background-color: rgba(255, 170, 0, 0.975);
+    
+}
+
+.div {
+    text-align: center;
+    border: 5px solid;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+
+.gif {
+    text-align: center;
+    width: 60%;
+    margin-left: 0%;
+}
+.img {
+    text-align: center;
+    width: 60%;
+    border-radius: 50%;
+
+}
